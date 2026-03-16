@@ -1,14 +1,86 @@
-# 👋 Hi, I’m @Archiusx
+<h1 align="center">Hi 👋, I'm Archiusx</h1>
+<h3 align="center">Full-Stack Developer | Educational Tech Builder | AI & Web Enthusiast</h3>
 
-- 👀 I’m interested in software development, web design, and emerging technologies like AI and blockchain.
-- 🌱 I’m currently learning full-stack development and building educational platforms.
-- 💡 I believe in **enhancing technologies for educational purpose systems** — making learning more accessible, engaging, and future-ready.
-- 💞️ I’m looking to collaborate on open-source projects, academic tools, and tech-for-good initiatives.
-- 📫 How to reach me: [Instagram @spotify.piux](https://instagram.com/spotify.piux) | [Email](mailto:co.2024.prdeshkar@bitwardha.ac.in)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I debug better with lo-fi beats and a cup of chai ☕
+<p align="center">
+Building technology that makes learning smarter, faster, and more accessible.
+</p>
 
-<!---
-Archiusx/Archiusx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Passionate about **Software Development, Web Technologies, and AI**
+- 🌱 Currently learning **Full Stack Development & Scalable Web Systems**
+- 🧠 Interested in **Artificial Intelligence, Blockchain, and Educational Technology**
+- 🏫 Building **student platforms, digital libraries, and learning systems**
+- 🤝 Open to collaborating on **Open Source Projects & Academic Tech Tools**
+- ⚡ Fun Fact: *I debug better with lo-fi beats and a cup of chai ☕*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+HTML | CSS | JavaScript | Python | SQL 
+
+### 🌐 Web Development
+React.js | Node.js | Firebase | Firestore | REST APIs
+
+### ⚙️ Tools & Platforms
+### 📚 Current Focus
+- Full-Stack Web Applications  
+- Scalable Student Platforms  
+- Secure Authentication Systems  
+- AI-assisted Educational Tools  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Archiusx&show_icons=true&theme=tokyonight" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiusx&layout=compact&theme=tokyonight" height="170">
+
+</p>
+
+---
+
+## 🌟 Projects & Interests
+
+- 📚 **Educational Platforms**
+- 🔐 **Secure Web Applications**
+- 🤖 **AI-Powered Student Tools**
+- 🌐 **Modern Responsive Websites**
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in working on:
+
+- Open Source Projects  
+- Student Platforms & Academic Tools  
+- AI & Automation Systems  
+- Tech for Education Initiatives  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **co.2024.prdeshkar@bitwardha.ac.in**
+- 📱 Instagram: **https://instagram.com/spotify.piux**
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following or starring my repositories!
+</p>
+
+---
+
+<p align="center">
+<i>"Enhancing technology to empower education."</i>
+</p>
