@@ -1,67 +1,127 @@
 <h1 align="center">Hi 👋, I'm Archiusx</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Educational+Tech+Builder;AI+%26+Web+Technology+Enthusiast;Building+Future+Learning+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+%7C+Aspiring+Developer;Building+Educational+Platforms;Learning+Full+Stack+Development;Exploring+AI+%26+Cloud+Technologies" />
 </p><p align="center">
-Building technology that empowers education and future learning systems.
+A student developer focused on building digital platforms for learning and student communities.
 </p>---
 
-🚀 About Me
+👨‍🎓 About Me
 
-- 👨‍💻 Passionate about Software Development, Web Design, and Emerging Technologies
+- 🎓 B.Tech Student
+- 💻 Interested in Software Development and Web Technologies
 - 🌱 Currently learning Full Stack Development
-- 🧠 Exploring Artificial Intelligence, Cloud Systems, and Blockchain
-- 🏫 Building Educational Platforms & Student Tech Systems
-- 🤝 Interested in Open Source & Tech-for-Education Projects
-- ⚡ Fun fact: I debug better with lo-fi beats and a cup of chai ☕
+- 🧠 Exploring Artificial Intelligence and Cloud Platforms
+- 🏫 Focused on building Educational and Student Utility Platforms
+- 🤝 Open to collaboration on academic and student tech projects
+
+I enjoy creating useful platforms for students, including portals for study resources, exams, and academic tools.
 
 ---
 
-🧠 Current Tech Stack
+🚀 Projects & Platforms
 
-<p align="center"><img src="https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-6.2-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-12.10-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white"/></p>---
+🎓 Student Platforms
 
-⚙️ Development Focus
+BIT Student Hub
+🔗 https://uthportal.oneapp.dev
 
-- 🌐 Full Stack Web Applications
-- 🔐 Secure Authentication Systems
-- 📚 Educational Technology Platforms
-- 🤖 AI-Powered Student Tools
-- ☁️ Cloud-Hosted Web Systems
+A student resource portal containing study materials, academic tools, and useful resources for engineering students.
 
 ---
 
-📊 GitHub Analytics
+BIT Node – CSE Portal (3rd Semester)
+🔗 https://3rdsemcse.oneapp.dev
+
+A centralized platform for CSE students providing:
+
+- Subject resources
+- Academic links
+- Notes and study support tools
+
+---
+
+⚖️ Exam Preparation Platforms
+
+MHTCET Law Portal
+🔗 https://mhtcetlaw.netlify.app
+
+A portal built for MHT-CET Law aspirants containing exam information, updates, and resources.
+
+---
+
+UPSC Preparation Portal
+🔗 https://upscportal.netlify.app
+
+A simple portal created for UPSC exam resources and updates, designed to help aspirants access useful material quickly.
+
+---
+
+🧠 Current Skills
+
+(Currently learning and improving)
+
+💻 Programming
+
+HTML
+CSS
+JavaScript (Basic)
+
+🌐 Web Development
+
+Responsive UI Design
+Frontend Development
+Basic Web Applications
+
+⚙️ Tools & Platforms
+
+Git & GitHub
+Firebase (basic usage)
+Netlify deployment
+VS Code
+
+📚 Learning Next
+
+React.js
+Node.js
+Backend Development
+Database Systems
+Cloud Deployment
+
+---
+
+🛠️ Technologies I Work With
+
+<p align="center"><img src="https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-Basic-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white"/></p>---
+
+📊 GitHub Statistics
 
 <p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Archiusx&show_icons=true&theme=tokyonight"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiusx&layout=compact&theme=tokyonight"/></p>---
 
-🔥 GitHub Contribution Streak
+🎯 Goals
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Archiusx&theme=tokyonight&hide_border=true"/></p>---
-
-🤝 Collaboration Interests
-
-- Open Source Projects
-- Educational Platforms
-- Student Tools
-- AI Applications
-- Secure Web Systems
+- Build useful tools for students
+- Learn modern full stack development
+- Contribute to open source educational projects
+- Create scalable academic platforms
 
 ---
 
 📫 Connect With Me
 
-<p align="center"><a href="https://instagram.com/spotify.piux">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="mailto:co.2024.prdeshkar@bitwardha.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>---
+📧 Email
+co.2024.prdeshkar@bitwardha.ac.in
+
+📷 Instagram
+https://instagram.com/spotify.piux
+
+---
 
 <p align="center">
-⭐ <b>If you like my projects, consider starring the repositories.</b>
+⭐ If you find my projects useful, feel free to explore and support them.
 </p><p align="center">
-<i>"Enhancing technology to empower education."</i>
+<i>“Technology should make education more accessible.”</i>
 </p>
