@@ -3,16 +3,17 @@
 </p><p align="center">
 Student Developer | Designing Production-Level Secure Digital Systems & Architectures | Passionate about AI, Emerging Technologies, and Building Scalable Real-World Solutions. </p>
 
-👨‍🎓 About Me
+👨‍💻 About Me
 
-- 🎓 B.Tech Student
-- 💻 Interested in Software Development and Web Technologies
-- 🌱 Currently learning Full Stack Development
-- 🧠 Exploring Artificial Intelligence and Cloud Platforms
-- 🏫 Focused on building Educational and Student Utility Platforms
-- 🤝 Open to collaboration on academic and student tech projects
+- 🎓 B.Tech Student & Developer
+- 🏗️ Building secure, production-ready web applications and digital platforms
+- 🤖 Exploring Artificial Intelligence, Automation, and Modern Cloud Technologies
+- 🌐 Passionate about Full-Stack Development and System Architecture
+- 📚 Developing educational platforms, student utility tools, and academic solutions
+- 🚀 Interested in solving real-world problems through technology and innovation
+- 🤝 Open to collaborating on impactful open-source, educational, and AI-driven projects
 
-I enjoy creating useful platforms for students, including portals for study resources, exams, and academic tools.
+I enjoy designing and developing practical solutions that improve student productivity, learning experiences, and access to educational resources. My focus is on creating scalable, secure, and user-friendly applications that deliver real value.
 
 ---
 
