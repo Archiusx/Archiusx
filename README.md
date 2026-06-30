@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archiusx</h1><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+%7C+Aspiring+Developer;Building+Educational+Platforms;Learning+Full+Stack+Development;Exploring+AI+%26+Cloud+Technologies" />
 </p><p align="center">
-A student developer focused on building digital platforms for learning and student communities.
-</p>---
+A student developer focused on building Production Level Secured Digital full system Architecture designing & Exploring AI technologies in todays world is my passion.</p>---
 
 👨‍🎓 About Me
 
