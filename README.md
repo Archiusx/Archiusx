@@ -90,15 +90,26 @@ Cloud Deployment
 
 ---
 
-🛠️ Technologies I Work With
+🚀 Technologies & Tools
 
-<p align="center"><img src="https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase-Basic-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<p align="center"><img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-Backend%20Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloudinary-Media%20Management-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/IndexedDB-Browser%20Database-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white"/></p>---
-
+<img src="https://img.shields.io/badge/REST%20API-Integration-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Applications-LLM%20Projects-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Architecture-Secure%20Design-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSINT-Intelligence%20Tools-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Technologies-Exploring-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Web%20Design-FF4088?style=for-the-badge"/></p>
 📊 GitHub Statistics
 
 <p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Archiusx&show_icons=true&theme=tokyonight"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiusx&layout=compact&theme=tokyonight"/></p>---
