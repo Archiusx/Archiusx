@@ -56,22 +56,23 @@ UPSC Preparation Portal
 A simple portal created for UPSC exam resources and updates, designed to help aspirants access useful material quickly.
 
 ---
+🧠 Core Expertise & Interests
 
-🧠 Current Skills
-
-(Currently learning and improving)
-
-💻 Programming
-
-HTML
-CSS
-JavaScript (Basic)
-
-🌐 Web Development
-
-Responsive UI Design
-Frontend Development
-Basic Web Applications
+<p align="center"><img src="https://img.shields.io/badge/System%20Architecture-Design%20%26%20Planning-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Secure%20System%20Design-Production%20Focused-2E86C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Web%20Development-28B463?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Design%20Engineering-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Applications-Development-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-AI%20Solutions-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Technologies-Architecture-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-Automation-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSINT-Research%20Tools-7D3C98?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Platforms-Product%20Development-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend%20Engineering-Modern%20Web%20Apps-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security%20Focused-Development-C0392B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Technology%20Driven-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Innovation-Emerging%20Technologies-9B59B6?style=for-the-badge"/></p>
+______________________________________________
 
 ⚙️ Tools & Platforms
 
