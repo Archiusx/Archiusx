@@ -5,15 +5,17 @@ Student Developer | Designing Production-Level Secure Digital Systems & Architec
 
 👨‍💻 About Me
 
-- 🎓 B.Tech Student & Developer
-- 🏗️ Building secure, production-ready web applications and digital platforms
-- 🤖 Exploring Artificial Intelligence, Automation, and Modern Cloud Technologies
-- 🌐 Passionate about Full-Stack Development and System Architecture
-- 📚 Developing educational platforms, student utility tools, and academic solutions
-- 🚀 Interested in solving real-world problems through technology and innovation
-- 🤝 Open to collaborating on impactful open-source, educational, and AI-driven projects
+- 🎓 B.Tech Student Developer
+- 🏗️ Designing Production-Level Secure Digital Systems & Architectures
+- 💻 Building Scalable, Reliable, and High-Performance Applications
+- 🤖 Passionate about Artificial Intelligence and Emerging Technologies
+- ☁️ Exploring Cloud Computing, Automation, and Modern Development Practices
+- 🔐 Interested in Cybersecurity, System Design, and Secure Software Engineering
+- 🚀 Focused on transforming ideas into real-world digital solutions
+- 🤝 Open to collaborating on innovative technology and open-source projects
 
-I enjoy designing and developing practical solutions that improve student productivity, learning experiences, and access to educational resources. My focus is on creating scalable, secure, and user-friendly applications that deliver real value.
+Driven by a passion for technology, I enjoy designing and building scalable, secure, and impactful solutions while continuously exploring advancements in AI, system architecture, and modern software development.
+
 
 ---
 
