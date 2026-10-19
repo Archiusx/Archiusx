@@ -23,21 +23,10 @@ Driven by a passion for technology, I enjoy designing and building scalable, sec
 
 🎓 Student Platforms
 
-BIT Student Hub
-🔗 https://uthportal.oneapp.dev
+BIT Verse Portal
+🔗 https://bitverse-portal.vercel.app
 
 A student resource portal containing study materials, academic tools, and useful resources for engineering students.
-
----
-
-BIT Node – CSE Portal (3rd Semester)
-🔗 https://3rdsemcse.oneapp.dev
-
-A centralized platform for CSE students providing:
-
-- Subject resources
-- Academic links
-- Notes and study support tools
 
 ---
 
@@ -56,6 +45,10 @@ UPSC Preparation Portal
 A simple portal created for UPSC exam resources and updates, designed to help aspirants access useful material quickly.
 
 ---
+SARVATRA AI
+https://sarvatra-ai.vercel.app
+An AI powered chatbot with free usage credits with inbuilt sticky notes , stopwatch and  multiple accessories like calender inside your chat.
+
 🧠 Core Expertise & Interests
 
 <p align="center"><img src="https://img.shields.io/badge/System%20Architecture-Design%20%26%20Planning-FF6B35?style=for-the-badge"/>
